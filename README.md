@@ -1,0 +1,2 @@
+# Brojanje-re-i-u-tekstu
+Brojanje reči u tekstu Ova studija slučaja razvija program koji broji javljanje reči u nekom tekstu i prikazuje reči i njihovo javljanje u alfabetskom redosledu reči. Program upotrebljava klasu TreeMap za skladištenje ulaza koji čine reč i broj njenog javljanja u tekstu. Za svaku reč, proverite da li postoji ključ u mapi. Ako ne postoji, dodajte ulaz u mapu koji čine reč i broj njenog javljanja.
